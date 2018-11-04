@@ -1,2 +1,3 @@
 Record=TopLevelDocument|FileName=Isolation_Circuit.SchDoc
+Record=SheetSymbol|SourceDocument=Isolation_Circuit.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=STM32_Circuit.SchDoc|SymbolType=Normal|RawFileName=STM32_Circuit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Isolation_Circuit.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=ADE9153_Circuit.SchDoc|SymbolType=Normal|RawFileName=ADE9153_Circuit.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
