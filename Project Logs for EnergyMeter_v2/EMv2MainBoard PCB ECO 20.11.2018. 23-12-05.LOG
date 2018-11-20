@@ -1,0 +1,51 @@
+Added Component: Designator=J3(SPTAF 1/4-5-LL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(SPTAF 1/4-5-LL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(SPTAF 1/4-5-LL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R2(WSK1216)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Mouser"; Value = "71-WSK12161L000FEA"; VariantName = "[No Variations]"
+Added Component: Designator=U2(HLK-PM03)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(HLK-PM03)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=3V3-ADE Pin=J5-1
+Added Pin To Net: NetName=3V3-ADE Pin=J5-1
+Added Pin To Net: NetName=GND-ADE Pin=J5-2
+Added Pin To Net: NetName=GND-ADE Pin=J5-2
+Added Pin To Net: NetName=VCC Pin=J5-3
+Added Pin To Net: NetName=VCC Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=NetJ3_4 Pin=J7-1
+Added Pin To Net: NetName=NetJ3_4 Pin=J7-1
+Added Pin To Net: NetName=NetJ1_2 Pin=J7-3
+Added Pin To Net: NetName=NetJ1_2 Pin=J7-3
+Added Pin To Net: NetName=NetJ1_2 Pin=R2-2
+Added Pin To Net: NetName=NetR2_3 Pin=R2-3
+Added Pin To Net: NetName=NetR1_2 Pin=R2-4
+Added Pin To Net: NetName=NetJ3_1 Pin=U2-1
+Added Pin To Net: NetName=NetJ3_4 Pin=U2-2
+Added Pin To Net: NetName=GND-ADE Pin=U2-3
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-4
+Added Pin To Net: NetName=NetJ3_1 Pin=U3-1
+Added Pin To Net: NetName=NetJ3_4 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetJ4_2 Pin=U3-4
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=J7-4
+Added Pin To Net: NetName=NetJ7_4 Pin=R2-1
+Added Pin To Net: NetName=NetJ7_4 Pin=R4-2
+Added Net: Name=NetJ7_4
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J3 SPTAF 1/4-5-LL
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J5 SPTAF 1/4-5-LL
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J7 SPTAF 1/4-5-LL
+Added Member To Class: ClassName=Isolation_Circuit Member=Component U2 HLK-PM03
+Added Member To Class: ClassName=Isolation_Circuit Member=Component U3 HLK-PM03
+Change Room Name: Old Name=Designator_1 New Name=Designator

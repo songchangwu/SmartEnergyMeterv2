@@ -1,0 +1,73 @@
+Added Component: Designator=T2(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T3(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T4(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T5(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T6(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T7(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T8(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T9(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T10(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T11(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T12(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T13(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T14(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T15(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T16(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T17(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T18(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T19(PIN1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=CLK-ESP Pin=T2-1
+Added Pin To Net: NetName=NetIC1_27 Pin=T3-1
+Added Pin To Net: NetName=NetIC1_17 Pin=T4-1
+Added Pin To Net: NetName=NetIC1_20 Pin=T5-1
+Added Pin To Net: NetName=NetIC1_21 Pin=T6-1
+Added Pin To Net: NetName=NetIC1_22 Pin=T7-1
+Added Pin To Net: NetName=NetIC1_23 Pin=T8-1
+Added Pin To Net: NetName=CE-NRF Pin=T9-1
+Added Pin To Net: NetName=CSN-NRF Pin=T10-1
+Added Pin To Net: NetName=MOSI-ESP Pin=T11-1
+Added Pin To Net: NetName=SCLK-LCD Pin=T12-1
+Added Pin To Net: NetName=CS-ESP Pin=T13-1
+Added Pin To Net: NetName=MISO-ESP Pin=T14-1
+Added Pin To Net: NetName=IRQ-NRF Pin=T15-1
+Added Pin To Net: NetName=AO-LCD Pin=T16-1
+Added Pin To Net: NetName=CS-LCD Pin=T17-1
+Added Pin To Net: NetName=MISO-LCD Pin=T18-1
+Added Pin To Net: NetName=MOSI-LCD Pin=T19-1
+Added Member To Class: ClassName=Designator Member=Component T2 Test Point
+Added Member To Class: ClassName=Designator Member=Component T3 Test Point
+Added Member To Class: ClassName=Designator Member=Component T4 Test Point
+Added Member To Class: ClassName=Designator Member=Component T5 Test Point
+Added Member To Class: ClassName=Designator Member=Component T6 Test Point
+Added Member To Class: ClassName=Designator Member=Component T7 Test Point
+Added Member To Class: ClassName=Designator Member=Component T8 Test Point
+Added Member To Class: ClassName=Designator Member=Component T9 Test Point
+Added Member To Class: ClassName=Designator Member=Component T10 Test Point
+Added Member To Class: ClassName=Designator Member=Component T11 Test Point
+Added Member To Class: ClassName=Designator Member=Component T12 Test Point
+Added Member To Class: ClassName=Designator Member=Component T13 Test Point
+Added Member To Class: ClassName=Designator Member=Component T14 Test Point
+Added Member To Class: ClassName=Designator Member=Component T15 Test Point
+Added Member To Class: ClassName=Designator Member=Component T16 Test Point
+Added Member To Class: ClassName=Designator Member=Component T17 Test Point
+Added Member To Class: ClassName=Designator Member=Component T18 Test Point
+Added Member To Class: ClassName=Designator Member=Component T19 Test Point
+Added Room: Name=Designator

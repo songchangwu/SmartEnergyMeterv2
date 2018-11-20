@@ -1,0 +1,58 @@
+Added Component: Designator=IC1(STM32F410RBT6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Component Type"; Value = "IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "STMICROELECTRONICS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = "STM32F410RBT6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=IC1-1
+Added Pin To Net: NetName=XT1-1 Pin=IC1-5
+Added Pin To Net: NetName=XT1-2 Pin=IC1-6
+Added Pin To Net: NetName=RESET Pin=IC1-7
+Added Pin To Net: NetName=AO-LCD Pin=IC1-8
+Added Pin To Net: NetName=CS-LCD Pin=IC1-9
+Added Pin To Net: NetName=MISO-LCD Pin=IC1-10
+Added Pin To Net: NetName=MOSI-LCD Pin=IC1-11
+Added Pin To Net: NetName=GND Pin=IC1-12
+Added Pin To Net: NetName=VCC Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_17 Pin=IC1-17
+Added Pin To Net: NetName=GND Pin=IC1-18
+Added Pin To Net: NetName=VCC Pin=IC1-19
+Added Pin To Net: NetName=NetIC1_20 Pin=IC1-20
+Added Pin To Net: NetName=NetIC1_21 Pin=IC1-21
+Added Pin To Net: NetName=NetIC1_22 Pin=IC1-22
+Added Pin To Net: NetName=NetIC1_23 Pin=IC1-23
+Added Pin To Net: NetName=NetIC1_24 Pin=IC1-24
+Added Pin To Net: NetName=NetIC1_25 Pin=IC1-25
+Added Pin To Net: NetName=CLK-ESP Pin=IC1-26
+Added Pin To Net: NetName=NetIC1_27 Pin=IC1-27
+Added Pin To Net: NetName=BOOT1 Pin=IC1-28
+Added Pin To Net: NetName=SCLK-LCD Pin=IC1-29
+Added Pin To Net: NetName=NetC31_1 Pin=IC1-30
+Added Pin To Net: NetName=GND Pin=IC1-31
+Added Pin To Net: NetName=VCC Pin=IC1-32
+Added Pin To Net: NetName=NSS-LORA Pin=IC1-33
+Added Pin To Net: NetName=SWDIO Pin=IC1-34
+Added Pin To Net: NetName=SWCLK Pin=IC1-35
+Added Pin To Net: NetName=RES-LORA Pin=IC1-36
+Added Pin To Net: NetName=RXD0-ESP32 Pin=IC1-37
+Added Pin To Net: NetName=TXD0-ESP32 Pin=IC1-38
+Added Pin To Net: NetName=CE-NRF Pin=IC1-41
+Added Pin To Net: NetName=CSN-NRF Pin=IC1-42
+Added Pin To Net: NetName=MOSI-ESP Pin=IC1-43
+Added Pin To Net: NetName=CS-ESP Pin=IC1-44
+Added Pin To Net: NetName=MISO-ESP Pin=IC1-45
+Added Pin To Net: NetName=IRQ-NRF Pin=IC1-46
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=VCC Pin=IC1-48
+Added Pin To Net: NetName=LED3 Pin=IC1-49
+Added Pin To Net: NetName=LED2 Pin=IC1-50
+Added Pin To Net: NetName=LED1 Pin=IC1-51
+Added Pin To Net: NetName=SW1 Pin=IC1-52
+Added Pin To Net: NetName=SW2 Pin=IC1-53
+Added Pin To Net: NetName=SWO Pin=IC1-55
+Added Pin To Net: NetName=BOOT0 Pin=IC1-60
+Added Pin To Net: NetName=GND Pin=IC1-63
+Added Pin To Net: NetName=VCC Pin=IC1-64
+Added Member To Class: ClassName=Designator Member=Component IC1 STM32F410RBT6
+Change Room Name: Old Name=Designator_1 New Name=Designator

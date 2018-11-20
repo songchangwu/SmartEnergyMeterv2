@@ -1,0 +1,13 @@
+Change Component Comment : Designator=J3 Old Comment=Line New Comment=Line-Load
+Added Component: Designator=J11(Crimp Spade PCB 6.3mm)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J12(Crimp Spade PCB 6.3mm)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR2_1 Pin=J11-1
+Added Pin To Net: NetName=NetR2_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ4_1 Pin=J12-1
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetJ11_1
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J11 Line-Network
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J12 Neutral
+Change Room Name: Old Name=Designator_1 New Name=Designator
