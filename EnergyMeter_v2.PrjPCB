@@ -208,220 +208,59 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document11]
+DocumentPath=EnergyMeterTestPlug2.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IDQHVNGE
+
+[Document12]
+DocumentPath=EnergyMeterTestPlugMultiple.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IDQHVNGE
+
+[Document13]
+DocumentPath=EnergyMeterTestPlug.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IDQHVNGE
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for EnergyMeter_v2\Design Rule Check - EMv2MainBoard.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.1
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GM17
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GM19
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GML
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2MainBoard.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.1
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GM17
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GM19
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GM21
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GML
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument51]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument52]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.REP
-DItemRevisionGUID=
-
-[GeneratedDocument53]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument54]
-DocumentPath=Project Outputs for EnergyMeter_v2\EMv2PowerSupply.TXT
 DItemRevisionGUID=
 
 [Configuration1]

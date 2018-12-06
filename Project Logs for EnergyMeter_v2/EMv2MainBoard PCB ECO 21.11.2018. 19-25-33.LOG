@@ -1,0 +1,202 @@
+Added Component: Designator=C25(CAPC2012X135N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0805C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1170-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C26(CAPC2012X135N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0805C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1170-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=C28(CAPC2012X135N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Manufacturer 1"; Value = "Kemet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number 1"; Value = "C0805C104K5RACTU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Material"; Value = "ceramic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "50V; X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SCDType"; Value = "undef"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "399-1170-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100n"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HDR1X2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(SPTAF 1/4-5-LL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(HDR1X2)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(SPTAF 1/4-5-LL)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(JUMP1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P7(HDR2X4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=T2(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T9(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T10(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T11(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T12(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T13(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T14(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T15(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T16(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T17(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T18(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T19(PIN1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U2(HLK-PM03)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U3(HLK-PM03)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U6(ESP32-WROOM-32U)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Espressif"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://hr.mouser.com/datasheet/2/891/esp32-wroom-32d_esp32-wroom-32u_datasheet_en-1365844.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser"; Value = "356-ES32WROOM32U16MB"; VariantName = "[No Variations]"
+Added Component: Designator=U7(Ra-02 LoRa)
+Add component. Clean all parameters for all variants
+Added Component: Designator=X1(35RAPC _ _ HN2)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=3V3-ADE Pin=C25-1
+Added Pin To Net: NetName=GND-ADE Pin=C25-2
+Added Pin To Net: NetName=3V3-ADE Pin=C26-1
+Added Pin To Net: NetName=GND-ADE Pin=C26-2
+Added Pin To Net: NetName=VCC Pin=C28-1
+Added Pin To Net: NetName=GND Pin=C28-2
+Added Pin To Net: NetName=3V3-ADE Pin=J2-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=VCC Pin=J4-1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=3V3-ADE Pin=J5-1
+Added Pin To Net: NetName=3V3-ADE Pin=J5-1
+Added Pin To Net: NetName=GND-ADE Pin=J5-2
+Added Pin To Net: NetName=GND-ADE Pin=J5-2
+Added Pin To Net: NetName=VCC Pin=J5-3
+Added Pin To Net: NetName=VCC Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=TXD0-ESP32 Pin=P1-1
+Added Pin To Net: NetName=RXD0-ESP32 Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P7-1
+Added Pin To Net: NetName=VCC Pin=P7-2
+Added Pin To Net: NetName=CE-NRF Pin=P7-3
+Added Pin To Net: NetName=CSN-NRF Pin=P7-4
+Added Pin To Net: NetName=CLK-ESP Pin=P7-5
+Added Pin To Net: NetName=MOSI-ESP Pin=P7-6
+Added Pin To Net: NetName=MISO-ESP Pin=P7-7
+Added Pin To Net: NetName=IRQ-NRF Pin=P7-8
+Added Pin To Net: NetName=CLK-ESP Pin=T2-1
+Added Pin To Net: NetName=CE-NRF Pin=T9-1
+Added Pin To Net: NetName=CSN-NRF Pin=T10-1
+Added Pin To Net: NetName=MOSI-ESP Pin=T11-1
+Added Pin To Net: NetName=SCLK-LCD Pin=T12-1
+Added Pin To Net: NetName=CS-ESP Pin=T13-1
+Added Pin To Net: NetName=MISO-ESP Pin=T14-1
+Added Pin To Net: NetName=IRQ-NRF Pin=T15-1
+Added Pin To Net: NetName=AO-LCD Pin=T16-1
+Added Pin To Net: NetName=CS-LCD Pin=T17-1
+Added Pin To Net: NetName=MISO-LCD Pin=T18-1
+Added Pin To Net: NetName=MOSI-LCD Pin=T19-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U2-1
+Added Pin To Net: NetName=NetJ3_4 Pin=U2-2
+Added Pin To Net: NetName=GND-ADE Pin=U2-3
+Added Pin To Net: NetName=NetJ2_2 Pin=U2-4
+Added Pin To Net: NetName=NetJ3_1 Pin=U3-1
+Added Pin To Net: NetName=NetJ3_4 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=NetJ4_2 Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U6-1
+Added Pin To Net: NetName=VCC Pin=U6-2
+Added Pin To Net: NetName=VCC Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-15
+Added Pin To Net: NetName=CS-ESP Pin=U6-19
+Added Pin To Net: NetName=CLK-ESP Pin=U6-20
+Added Pin To Net: NetName=MOSI-ESP Pin=U6-21
+Added Pin To Net: NetName=MISO-ESP Pin=U6-22
+Added Pin To Net: NetName=NetJ8_1 Pin=U6-25
+Added Pin To Net: NetName=RXD0-ESP32 Pin=U6-34
+Added Pin To Net: NetName=TXD0-ESP32 Pin=U6-35
+Added Pin To Net: NetName=GND Pin=U6-38
+Added Pin To Net: NetName=GND Pin=U6-38
+Added Pin To Net: NetName=GND Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=VCC Pin=U7-3
+Added Pin To Net: NetName=RES-LORA Pin=U7-4
+Added Pin To Net: NetName=GND Pin=U7-9
+Added Pin To Net: NetName=CLK-ESP Pin=U7-12
+Added Pin To Net: NetName=MISO-ESP Pin=U7-13
+Added Pin To Net: NetName=MOSI-ESP Pin=U7-14
+Added Pin To Net: NetName=NSS-LORA Pin=U7-15
+Added Pin To Net: NetName=GND Pin=U7-16
+Added Pin To Net: NetName=CT1 Pin=X1-1
+Added Pin To Net: NetName=CT2 Pin=X1-3
+Added Member To Class: ClassName=Isolation_Circuit Member=Component C25 approved sub OK
+Added Member To Class: ClassName=Isolation_Circuit Member=Component C26 approved sub OK
+Added Member To Class: ClassName=Isolation_Circuit Member=Component C28 approved sub OK
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J2 Jumper
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J3 SPTAF 1/4-5-LL
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J4 Jumper
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J5 SPTAF 1/4-5-LL
+Added Member To Class: ClassName=Isolation_Circuit Member=Component J6 SPTAF 1/4-5-LL
+Added Member To Class: ClassName=Designator Member=Component J8 Jumper
+Added Member To Class: ClassName=Designator Member=Component P1 Header 2
+Added Member To Class: ClassName=Designator Member=Component P7 NRF24L01
+Added Member To Class: ClassName=Designator Member=Component T2 Test Point
+Added Member To Class: ClassName=Designator Member=Component T9 Test Point
+Added Member To Class: ClassName=Designator Member=Component T10 Test Point
+Added Member To Class: ClassName=Designator Member=Component T11 Test Point
+Added Member To Class: ClassName=Designator Member=Component T12 Test Point
+Added Member To Class: ClassName=Designator Member=Component T13 Test Point
+Added Member To Class: ClassName=Designator Member=Component T14 Test Point
+Added Member To Class: ClassName=Designator Member=Component T15 Test Point
+Added Member To Class: ClassName=Designator Member=Component T16 Test Point
+Added Member To Class: ClassName=Designator Member=Component T17 Test Point
+Added Member To Class: ClassName=Designator Member=Component T18 Test Point
+Added Member To Class: ClassName=Designator Member=Component T19 Test Point
+Added Member To Class: ClassName=Isolation_Circuit Member=Component U2 HLK-PM03
+Added Member To Class: ClassName=Isolation_Circuit Member=Component U3 HLK-PM03
+Added Member To Class: ClassName=Designator Member=Component U6 ESP32-WROOM-32U
+Added Member To Class: ClassName=Designator Member=Component U7 Ra-02 LoRa
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Isolation_Circuit
